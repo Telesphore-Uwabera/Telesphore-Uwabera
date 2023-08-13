@@ -7,7 +7,7 @@
 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Telesphore-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/telesphore-uwabera-a31760251/](https://www.linkedin.com/in/telesphore-uwabera-a31760251/))](https://www.linkedin.com/in/telesphore-uwabera-a31760251/) [![Twitter Badge](https://img.shields.io/badge/-@Telesphore-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/telesphoreuwa)](https://twitter.com/telesphoreuwa)
+[![Linkedin Badge](https://img.shields.io/badge/-Telesphore-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/telesphore-uwabera-a31760251/](https://www.linkedin.com/in/telesphore-uwabera-a31760251/))](https://www.linkedin.com/in/telesphore-uwabera-a31760251/) [![Twitter Badge](https://img.shields.io/badge/-Telesphore-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/telesphoreuwa)](https://twitter.com/telesphoreuwa)
 
 A software engineer interested in Artificial intelligence and Machine Learning. He loves Mathematics, data analysis, data science, cybersecurity, web development, web design, software application, and data engineering.
 
