@@ -15,7 +15,7 @@ A software engineer interested in Artificial intelligence and Machine Learning. 
 
 **About Me**:
 
-- 😊 Software engineer and Mastercard Foundation Scholar 
+- 😊 Software engineer 
 - 😊 Passionate about Full Stack Development, Machine Learning, Front-Web Developer, Cybersecurity Enthusiast, Data Analyst, Web Designer, Data Engineer, Graphic Designer, Aspire Leader, Mathematics enthusiast, and Data Science.
 - 💡 Fun facts: I love playing music and reading books.
 - 🌱 I’m currently learning Python, Linux/Shell and Web Development.
