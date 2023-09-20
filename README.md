@@ -12,7 +12,7 @@
 
 
 
-A software engineering student at the [African Leadership University](https://www.alueducation.com/) and [The Holberton School](https://www.holbertonschool.com/).   I am interested in Artificial intelligence and Machine Learning. He loves Mathematics, data analysis, data science, cybersecurity, web development, web design, software application, and data engineering.
+A software engineering student at the [African Leadership University](https://www.alueducation.com/) and [Holberton School](https://www.holbertonschool.com/).   I am interested in Artificial intelligence and Machine Learning. He loves Mathematics, data analysis, data science, cybersecurity, web development, web design, software application, and data engineering.
 
 **About Me**:
 
