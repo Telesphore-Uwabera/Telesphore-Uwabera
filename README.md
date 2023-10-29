@@ -1,6 +1,7 @@
 # Telesphore Uwabera
 
 # Muraho 👋🏾 Welcome to my GitHub Portfolio 😊
+[![wakatime](https://wakatime.com/badge/user/b06c7fd4-f5a7-4da2-a0fb-d75ca1b1bc27.svg)](https://wakatime.com/@b06c7fd4-f5a7-4da2-a0fb-d75ca1b1bc27)
 
 <div align="center">
 <img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
