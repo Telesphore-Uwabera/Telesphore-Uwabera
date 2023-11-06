@@ -17,7 +17,7 @@ A software engineering student at the [African Leadership University](https://ww
 **About Me**:
 
 - 😊 Software engineer 
-- 😊 Passionate about Full Stack Development, Machine Learning, Front-Web Developer, Cybersecurity Enthusiast, Data Analyst, Web Designer, Data Engineer, Graphic Designer, Aspire Leader, Mathematics enthusiast, and Data Science.
+- 😊 Passionate about Full Stack Development, Front-Web Developer, Cybersecurity Enthusiast, Data Analyst, Web Designer, Data Engineer, Graphic Designer, Aspire Leader, and Data Science.
 - 💡 Fun facts: I love playing music and reading books.
 - 🌱 I’m currently learning Python, Linux/Shell and Web Development.
 - 😊 I love initiating and contributing to ideas that solve problems at the intersection of technology and entrepreneurship.
