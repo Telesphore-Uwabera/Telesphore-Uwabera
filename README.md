@@ -22,7 +22,7 @@ A software engineering student at the [African Leadership University](https://ww
 - 🌱 I’m currently learning Python, Linux/Shell and Web Development.
 - 😊 I love initiating and contributing to ideas that solve problems at the intersection of technology and entrepreneurship.
 - 💼 Job interests: Software Engineering (Internships or Junior level jobs).
-- 📫 You can reach me by Email: uwaberatelesphore@gmail.com
+- 📫 You can reach me by Email: telesphore91073@gmail.com
 
 ---
 
