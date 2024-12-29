@@ -12,14 +12,14 @@
 
 
 
-A software engineering student at the [African Leadership University](https://www.alueducation.com/) and [Holberton School](https://www.holbertonschool.com/).   I am interested in full stack web development. I love data analysis, data science, cybersecurity, web development, web design, software application, and data engineering.
+A software engineering student at the [African Leadership University](https://www.alueducation.com/) and [Holberton School](https://www.holbertonschool.com/).   I am interested in full-stack web development. I love cybersecurity and graphic design.
 
 **About Me**:
 
 - 😊 Software engineer 
-- 😊 Passionate about Full Stack Development, Front-Web Developer, Cybersecurity Enthusiast, Data Analyst, Web Designer, Data Engineer, Graphic Designer, Aspire Leader, and Data Science.
-- 💡 Fun facts: I love playing musics and reading books.
-- 🌱 I’m currently learning Python, Linux/Shell and Web Development.
+- 😊 Passionate about Full Stack Development, Cybersecurity Enthusiast, and Graphic Designer.
+- 💡 Fun facts: I love playing music and reading books.
+- 🌱 I’m learning Python, Linux/Shell, and Web Development.
 - 😊 I love initiating and contributing to ideas that solve problems at the intersection of technology and entrepreneurship.
 - 💼 Job interests: Software Engineering (Internships or Junior level jobs).
 - 📫 You can reach me by Email: telesphore91073@gmail.com
