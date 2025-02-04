@@ -8,19 +8,10 @@
 
 </div>
 
-<a href="https://www.linkedin.com/in/telesphoreuwabera/" target="_blank">
-    <img src="https://img.shields.io/badge/-Telesphore-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-<a href="https://x.com/Tecyyyyyy" target="_blank">
-    <img src="https://img.shields.io/badge/-Telesphore-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-</a>
-<a href="https://www.instagram.com/uwaberatelesphore/" target="_blank">
-    <img src="https://img.shields.io/badge/-Telesphore-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-</a>
-<a href="https://www.facebook.com/TelesphoreUWABERA/" target="_blank">
-    <img src="https://img.shields.io/badge/-Telesphore-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
-</a>
-
+[![LinkedIn Badge](https://img.shields.io/badge/-Telesphore-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/telesphoreuwabera/) 
+[![Instagram Badge](https://img.shields.io/badge/-Telesphore-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uwaberatelesphore/) 
+[![Facebook Badge](https://img.shields.io/badge/-Telesphore-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/TelesphoreUWABERA/)
+[![Twitter Badge](https://img.shields.io/badge/-Telesphore-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Tecyyyyyy) 
 
 A software engineering student at the [African Leadership University](https://www.alueducation.com/) and [Holberton School](https://www.holbertonschool.com/).   I am interested in full-stack web development. I love cybersecurity and graphic design.
 
