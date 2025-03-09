@@ -13,7 +13,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Telesphore-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/TelesphoreUWABERA/)
 [![Twitter Badge](https://img.shields.io/badge/-Telesphore-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Tecyyyyyy) 
 
-A software engineering student at the [African Leadership University](https://www.alueducation.com/) and [Holberton School](https://www.holbertonschool.com/).   I am interested in full-stack web development. I love cybersecurity and graphic design.
+A software engineering student at the [African Leadership University](https://www.alueducation.com/).   I am interested in full-stack web development. I love cybersecurity and graphic design.
 
 **About Me**:
 
