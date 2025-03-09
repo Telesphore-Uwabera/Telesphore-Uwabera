@@ -22,7 +22,7 @@ A software engineering student at the [African Leadership University](https://ww
 - 💡 Fun facts: I love playing music and reading books.
 - 🌱 I’m learning Python, ReactJS, and Full Stack Development.
 - 😊 I love initiating and contributing to ideas that solve problems at the intersection of technology and entrepreneurship.
-- 💼 Job interests: Software Engineering (Internships or Junior level jobs).
+- 💼 Job interests: Software Engineering jobs.
 - 📫 You can reach me by Email: telesphore91073@gmail.com
 - 🌎 Visit my [Portfolio](https://uwaberatelesphore.netlify.app/)
 
