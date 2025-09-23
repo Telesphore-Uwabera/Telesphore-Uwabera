@@ -20,7 +20,7 @@ A software engineering student at the [African Leadership University](https://ww
 - 😊 Software engineer 
 - 😊 Passionate about Full Stack Development, Cybersecurity Enthusiast, and Graphic Designer.
 - 💡 Fun facts: I love playing music and reading books.
-- 🌱 I’m learning Full Stack Development.
+- 🌱 I learnt Full-stack Development.
 - 😊 I love initiating and contributing to the ideas that solve problems at the intersection of technology and entrepreneurship.
 - 💼 Job interests: Software Engineering jobs.
 - 📫 You can reach me by Email: telesphore91073@gmail.com
