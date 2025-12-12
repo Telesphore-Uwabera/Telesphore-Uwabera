@@ -44,7 +44,7 @@ I am a Software Engineering student at the
 **[African Leadership University](https://www.alueducation.com/)** — passionate about designing, building, and securing modern digital systems.
 
 ✨ **Who I Am**
-- 🚀 Versatile engineer with experience in Full-Stack development, DevOps, cybersecurity, and design  
+- 🚀 Versatile engineer with experience in Full-Stack development, DevOps, and design  
 - 🎨 Skilled Graphic Designer and creative problem-solver  
 - 📚 Lifelong learner who enjoys music & reading  
 - 💼 Passionate about building impactful, scalable tech solutions  
