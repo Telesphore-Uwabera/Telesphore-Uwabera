@@ -1,7 +1,7 @@
 <h1 align="center">👋🏾 Muraho! I'm <span style="color:#0077ff;">Telesphore Uwabera</span></h1>
 
 <h3 align="center">
-Software Engineer • Full-Stack Developer • DevOps Engineer • Graphic Designer
+• Software Engineer • Full-Stack Developer • DevOps Engineer • Graphic Designer
 </h3>
 
 <p align="center">
